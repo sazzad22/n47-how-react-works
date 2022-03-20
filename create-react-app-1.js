@@ -124,7 +124,7 @@ const Watch = () => {
 
 //virtual dom
 
-//diff algorith
+//diff algorithm
 
 //fiber architecture
 
